@@ -1,6 +1,6 @@
 # Hi there, I'm Gibril Mad 👋
 
-> **Founder & CEO at XΞRA** | Full-Stack Software Engineer | Tech Enthusiast
+> **Founder & CEO at XΞRA1** | Full-Stack Software Engineer | Tech Enthusiast
 
 Building social & developer tools that reward execution over vanity. Focused on scalable architectures, real-time engines, and clean UX.
 
